@@ -1,3 +1,2 @@
-# resume
+git clone https://github.com/DesislavaGenkova/DesislavaGenkova.github.io
 
-<p> About me <p/>
